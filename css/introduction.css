@@ -231,12 +231,11 @@ body {
 .second-area-4{
   position: relative;
   width: 100vw;
-  /* background-color: powderblue; */
   text-align: center;
 }
 
 .step{
-  margin: 150px 0;
+  margin: 200px 0;
 }
 
 .step img{
